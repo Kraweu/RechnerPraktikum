@@ -58,7 +58,7 @@ Otto Porter;WAS;SF;80;198;23;3;Georgetown University;5893981;80;2605;1075;148;26
 Sheldon McClellan;WAS;SG;77;200;24;0;University of Miami;543471;30;287;90;7;23;23
 Tomas Satoransky;WAS;SG;79;210;25;0;;2870813;57;719;154;9;52;23
 Trey Burke;WAS;PG;73;191;24;3;University of Michigan;3386598;57;703;285;31;85;22
-DeAndre Bembry;ATL;SF;78;210;22;0;Saint Joseph's University;1499760;38;371;101;1;46;6
+DeAndre Bembry;ATL;SF;78;210;22;0;Saint Joseph s University;1499760;38;371;101;1;46;6
 Dennis Schroder;ATL;PG;73;172;23;3;;2708582;79;2485;1414;100;448;218
 Dwight Howard;ATL;C;83;265;31;12;;23180275;74;2199;1002;0;388;226
 Ersan Ilyasova;ATL;PF;82;235;29;8;;8400000;26;633;270;32;61;52
@@ -79,7 +79,7 @@ Jason Terry;MIL;SG;74;185;39;17;University of Arizona;1551659;74;1365;307;73;32;
 John Henson;MIL;C;83;229;26;4;University of North Carolina;12517606;58;1123;392;0;159;74
 Khris Middleton;MIL;SF;80;234;25;4;Texas A&M University;15200000;29;889;426;45;105;81
 Malcolm Brogdon;MIL;SG;77;215;24;0;University of Virginia;925000;75;1982;767;78;212;109
-Matthew Dellavedova;MIL;PG;76;198;26;3;Saint Mary's College of California;9607500;76;1986;577;79;129;82
+Matthew Dellavedova;MIL;PG;76;198;26;3;Saint Mary s College of California;9607500;76;1986;577;79;129;82
 Michael Beasley;MIL;PF;81;235;28;8;Kansas State University;1403611;56;935;528;18;198;78
 Mirza Teletovic;MIL;PF;81;242;31;4;;10500000;70;1133;451;104;52;35
 Rashad Vaughn;MIL;SG;78;202;20;1;University of Nevada, Las Vegas;1811040;41;458;142;26;31;2
@@ -150,7 +150,7 @@ Christian Wood;CHO;PF;83;220;21;1;University of Nevada, Las Vegas;874636;13;107;
 Cody Zeller;CHO;PF;84;240;24;3;Indiana University;5318313;62;1725;639;0;253;133
 Frank Kaminsky;CHO;C;84;242;23;1;University of Wisconsin;2730000;75;1954;874;116;204;118
 Jeremy Lamb;CHO;SG;77;185;24;4;University of Connecticut;6511628;62;1143;603;41;185;110
-Johnny O'Bryant;CHO;PF;81;257;23;2;Louisiana State University;161483;4;34;18;1;7;1
+Johnny OBryant;CHO;PF;81;257;23;2;Louisiana State University;161483;4;34;18;1;7;1
 Kemba Walker;CHO;PG;73;172;26;5;University of Connecticut;12000000;79;2739;1830;240;403;304
 Marco Belinelli;CHO;SG;77;210;30;9;;6333333;74;1778;780;102;162;150
 Marvin Williams;CHO;PF;81;237;30;11;University of North Carolina;12250000;76;2295;849;124;173;131
@@ -166,7 +166,7 @@ Derrick Rose;NYK;PG;75;190;28;7;University of Memphis;21323250;64;2082;1154;13;4
 Joakim Noah;NYK;C;83;230;31;9;University of Florida;17000000;46;1015;232;0;99;34
 Justin Holiday;NYK;SG;78;185;27;3;University of Washington;1015696;82;1639;629;97;136;66
 Kristaps Porzingis;NYK;PF;87;240;21;1;;4317720;66;2164;1196;112;331;198
-Kyle O'Quinn;NYK;C;82;250;26;4;Norfolk State University;3900000;79;1229;496;2;213;64
+Kyle OQuinn;NYK;C;82;250;26;4;Norfolk State University;3900000;79;1229;496;2;213;64
 Lance Thomas;NYK;PF;80;235;28;5;Duke University;6191000;46;968;275;38;59;43
 Marshall Plumlee;NYK;C;84;250;24;0;Duke University;543471;21;170;40;0;16;8
 Maurice Ndour;NYK;PF;81;200;24;0;Ohio University;543471;32;331;98;1;38;19
@@ -246,7 +246,7 @@ Kawhi Leonard;SAS;SF;79;230;25;5;San Diego State University;17638063;74;2474;188
 Kyle Anderson;SAS;SG;81;230;23;2;University of California, Los Angeles;1192080;72;1020;246;15;78;45
 LaMarcus Aldridge;SAS;PF;83;260;31;10;University of Texas at Austin;20575005;72;2335;1243;23;477;220
 Manu Ginobili;SAS;SG;78;205;39;14;;14000000;69;1291;517;89;82;86
-Patty Mills;SAS;PG;72;185;28;7;Saint Mary's College of California;3578948;80;1754;759;147;126;66
+Patty Mills;SAS;PG;72;185;28;7;Saint Mary s College of California;3578948;80;1754;759;147;126;66
 Pau Gasol;SAS;C;84;250;36;15;;15500000;64;1627;792;56;247;130
 Tony Parker;SAS;PG;74;185;34;15;;14445313;63;1587;638;23;242;85
 Bobby Brown;HOU;PG;74;175;32;2;California State University, Fullerton;680534;25;123;62;14;9;2
@@ -331,7 +331,7 @@ Ed Davis;POR;PF;82;240;27;6;University of North Carolina;6666667;46;789;200;0;75
 Evan Turner;POR;SF;79;220;28;6;Ohio State University;16393443;65;1658;586;31;204;85
 Jake Layman;POR;SF;81;210;22;0;University of Maryland;600000;35;249;78;13;13;13
 Jusuf Nurkic;POR;C;84;280;22;2;;1921320;20;584;304;0;120;64
-Maurice Harkless;POR;SF;81;215;23;4;St. John's University;8988764;77;2223;773;68;246;77
+Maurice Harkless;POR;SF;81;215;23;4;St. John s University;8988764;77;2223;773;68;246;77
 Meyers Leonard;POR;PF;85;245;24;4;University of Illinois at Urbana-Champaign;9213484;74;1222;401;74;72;35
 Noah Vonleh;POR;PF;82;240;21;2;Indiana University;2751360;74;1265;327;7;123;60
 Pat Connaughton;POR;SG;77;206;24;1;University of Notre Dame;874636;39;316;98;17;20;7
@@ -342,7 +342,7 @@ Darrell Arthur;DEN;PF;81;235;28;7;University of Kansas;8070175;41;639;262;53;42;
 Emmanuel Mudiay;DEN;PG;77;200;20;1;;3241800;55;1406;603;56;152;131
 Gary Harris;DEN;SG;76;210;22;2;Michigan State University;1655880;57;1782;851;107;213;104
 Jamal Murray;DEN;SG;76;207;19;0;University of Kentucky;3210840;82;1764;811;115;180;106
-Jameer Nelson;DEN;PG;72;190;34;12;Saint Joseph's University;4540525;75;2045;687;106;162;45
+Jameer Nelson;DEN;PG;72;190;34;12;Saint Joseph s University;4540525;75;2045;687;106;162;45
 Juan Hernangomez;DEN;PF;81;230;21;0;;1987440;62;842;305;46;55;57
 Kenneth Faried;DEN;PF;80;228;27;5;Morehead State University;12078652;61;1296;587;0;228;131
 Malik Beasley;DEN;SG;77;196;20;0;Florida State University;1627320;22;165;83;9;24;8
@@ -359,7 +359,7 @@ Cheick Diallo;NOP;PF;81;220;20;0;University of Kansas;543471;17;199;87;0;36;15
 Dante Cunningham;NOP;SF;80;230;29;7;Villanova University;2978250;66;1649;435;71;103;16
 DeMarcus Cousins;NOP;C;83;270;26;6;University of Kentucky;16957900;17;574;414;36;106;94
 Donatas Motiejunas;NOP;PF;84;222;26;4;;576724;34;479;150;11;46;25
-E'Twaun Moore;NOP;SG;76;191;27;5;Purdue University;8081363;73;1820;700;77;206;57
+ETwaun Moore;NOP;SG;76;191;27;5;Purdue University;8081363;73;1820;700;77;206;57
 Jordan Crawford;NOP;SG;76;195;28;4;Xavier University;173094;19;442;267;37;68;20
 Jrue Holiday;NOP;PG;76;205;26;7;University of California, Los Angeles;11286518;67;2190;1029;100;305;119
 Omer Asik;NOP;C;84;255;30;6;;9904494;31;482;85;0;31;23
@@ -389,7 +389,7 @@ Darren Collison;SAC;PG;72;175;29;7;University of California, Los Angeles;5229454
 Garrett Temple;SAC;SG;78;195;30;6;Louisiana State University;8000000;65;1728;506;82;101;58
 Georgios Papagiannis;SAC;C;85;240;19;0;;2202240;22;355;124;0;56;12
 Kosta Koufos;SAC;C;84;265;27;8;Ohio State University;8046500;71;1419;470;0;216;38
-Langston Galloway;SAC;PG;74;200;25;2;Saint Joseph's University;5200000;19;375;114;19;23;11
+Langston Galloway;SAC;PG;74;200;25;2;Saint Joseph s University;5200000;19;375;114;19;23;11
 Malachi Richardson;SAC;SG;78;205;21;0;Syracuse University;1439880;22;198;79;8;20;15
 Rudy Gay;SAC;SF;80;230;30;10;University of Connecticut;13333333;30;1013;562;42;159;118
 Skal Labissiere;SAC;PF;83;225;20;0;University of Kentucky;1188840;33;612;289;3;114;52
@@ -412,14 +412,14 @@ Tyus Jones;MIN;PG;74;195;20;1;Duke University;1339680;60;774;209;26;49;33
 Zach LaVine;MIN;SG;77;189;21;2;University of California, Los Angeles;2240880;47;1749;889;120;206;117
 Brandon Ingram;LAL;SF;81;190;19;0;Duke University;5281680;79;2279;740;55;221;133
 Corey Brewer;LAL;SF;81;186;30;9;University of Florida;7600000;24;358;129;5;48;18
-D'Angelo Russell;LAL;PG;77;195;20;1;Ohio State University;5332800;63;1811;984;135;216;147
+DAngelo Russell;LAL;PG;77;195;20;1;Ohio State University;5332800;63;1811;984;135;216;147
 David Nwaba;LAL;SG;76;209;24;0;California Polytechnic State University, San Luis Obispo;73528;20;397;120;1;46;25
 Ivica Zubac;LAL;C;85;265;19;0;;1034956;38;609;284;0;126;32
 Jordan Clarkson;LAL;SG;77;194;24;2;University of Missouri;12500000;82;2397;1205;117;360;134
 Julius Randle;LAL;PF;81;250;22;2;University of Kentucky;3267120;74;2132;975;17;360;204
 Larry Nance Jr.;LAL;PF;81;230;24;1;University of Wyoming;1207680;63;1442;449;10;180;59
 Luol Deng;LAL;SF;81;220;31;12;Duke University;18000000;56;1486;425;51;113;46
-Metta World Peace;LAL;SF;78;260;37;16;St. John's University;1551659;25;160;57;9;10;10
+Metta World Peace;LAL;SF;78;260;37;16;St. John s University;1551659;25;160;57;9;10;10
 Nick Young;LAL;SG;79;210;31;9;University of Southern California;5443918;60;1556;791;170;102;77
 Tarik Black;LAL;C;81;250;25;2;University of Kansas;6191000;67;1091;383;1;149;82
 Thomas Robinson;LAL;PF;82;237;25;4;University of Kansas;1050961;48;560;241;0;105;31
